@@ -14,10 +14,10 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.ba46297588bb1bd3ad7aa10bd4c3c597.js"
+  "/precache-manifest.5c6edeb8140c838a9ddbe0e5349bb505.js"
 );
 
-workbox.core.setCacheNameDetails({prefix: "proto-type"});
+workbox.core.setCacheNameDetails({prefix: "haemilsoft-vue"});
 
 /**
  * The workboxSW.precacheAndRoute() method efficiently caches and responds to

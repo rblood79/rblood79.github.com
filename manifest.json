@@ -1,7 +1,8 @@
 {
-  "name": "rblood79@gmail.com",
-  "short_name": "rblood79@gmail.com",
-  "icons": [{
+  "name": "haemilsoft-vue",
+  "short_name": "haemilsoft-vue",
+  "icons": [
+    {
       "src": "./img/icons/android-chrome-192x192.png",
       "sizes": "192x192",
       "type": "image/png"
@@ -13,8 +14,7 @@
     }
   ],
   "start_url": "./index.html",
-  "display": "fullscreen",
-  "orientation": "portrait",
+  "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#4DBA87"
 }
