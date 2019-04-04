@@ -12,8 +12,16 @@ self.__precacheManifest = [
     "url": "/img/Zangief-mech-walk.86eb1b47.gif"
   },
   {
+    "revision": "4f5f91f48b461c97cc38",
+    "url": "/css/chunk-1368ba62.448ae207.css"
+  },
+  {
     "revision": "9544d260b3fc2fd5ee6f",
     "url": "/js/chunk-14a68adb.2b112e00.js"
+  },
+  {
+    "revision": "f033d9bbb5584b84ca2a",
+    "url": "/js/chunk-2d0a314a.4e84694c.js"
   },
   {
     "revision": "564687e33576ea9b1987",
@@ -28,100 +36,92 @@ self.__precacheManifest = [
     "url": "/js/chunk-2d221b8b.810bdd2a.js"
   },
   {
-    "revision": "f033d9bbb5584b84ca2a",
-    "url": "/js/chunk-2d0a314a.4e84694c.js"
+    "revision": "13b948455d52f2212b14",
+    "url": "/css/chunk-38b9d23c.823518e4.css"
   },
   {
-    "revision": "395c8c82dcd32e90e0dc",
-    "url": "/js/chunk-38b9d23c.da421ded.js"
+    "revision": "13b948455d52f2212b14",
+    "url": "/js/chunk-38b9d23c.65bccb78.js"
   },
   {
-    "revision": "f352861a568bcf3de549",
-    "url": "/js/chunk-vendors.673237ec.js"
-  },
-  {
-    "revision": "327a0ba2e154a7d051dd",
-    "url": "/js/chunk-398e957f.cc902e77.js"
-  },
-  {
-    "revision": "fd293a71750155192a2b",
-    "url": "/js/chunk-fdc0f712.87221539.js"
+    "revision": "65ff89d43a502eeba8ea",
+    "url": "/css/chunk-3e7401f5.fd5dde0d.css"
   },
   {
     "revision": "65ff89d43a502eeba8ea",
     "url": "/js/chunk-3e7401f5.dbddf351.js"
   },
   {
-    "revision": "a1cae08d7fc64955f4b5",
-    "url": "/js/chunk-ba7b50d4.6acb382f.js"
+    "revision": "8269ab094bdd254f341f",
+    "url": "/css/chunk-441de8a6.823518e4.css"
   },
   {
-    "revision": "3c8fab4c0c1d0fc62811",
-    "url": "/js/chunk-441de8a6.23ad1565.js"
+    "revision": "8269ab094bdd254f341f",
+    "url": "/js/chunk-441de8a6.f8ebb15b.js"
   },
   {
-    "revision": "67c9e07c73408f8610fc",
-    "url": "/js/chunk-a3a4917e.40dc0a4b.js"
+    "revision": "b1f6403d87aa675c7979",
+    "url": "/css/chunk-58056c77.2deafef3.css"
   },
   {
     "revision": "b1f6403d87aa675c7979",
     "url": "/js/chunk-58056c77.a01e324a.js"
   },
   {
+    "revision": "5a6c927af98c7db3b0c3",
+    "url": "/css/chunk-5cd5b814.1830f29c.css"
+  },
+  {
+    "revision": "5a6c927af98c7db3b0c3",
+    "url": "/js/chunk-5cd5b814.68704069.js"
+  },
+  {
+    "revision": "a4873ae2ce97a8bcac9e",
+    "url": "/css/chunk-6c86c4d4.823518e4.css"
+  },
+  {
+    "revision": "a4873ae2ce97a8bcac9e",
+    "url": "/js/chunk-6c86c4d4.4580063a.js"
+  },
+  {
+    "revision": "ef360e6e7698ba6787fc",
+    "url": "/css/chunk-8951984a.f837fe7e.css"
+  },
+  {
     "revision": "ef360e6e7698ba6787fc",
     "url": "/js/chunk-8951984a.575f66a4.js"
   },
   {
-    "revision": "d34de2de8707b19654e5",
-    "url": "/js/chunk-5cd5b814.6f8e1889.js"
-  },
-  {
-    "revision": "ce5fcc8252dd63379b04",
-    "url": "/js/chunk-6c86c4d4.61fbd105.js"
-  },
-  {
-    "revision": "4584e43b3b6506f9faf7a7339b93bf55",
-    "url": "/img/isaac-smith-1182057-unsplash.4584e43b.jpg"
-  },
-  {
-    "revision": "ce5fcc8252dd63379b04",
-    "url": "/css/chunk-6c86c4d4.823518e4.css"
-  },
-  {
-    "revision": "85ce73f611df5584aaf95a4e2a5cec04",
-    "url": "/index.html"
-  },
-  {
-    "revision": "67c9e07c73408f8610fc",
+    "revision": "9d23970f86c7d1015f20",
     "url": "/css/chunk-a3a4917e.1ea6623c.css"
   },
   {
-    "revision": "466677d7794c01a5ca43bed86e7b2ee1",
-    "url": "/img/mac.466677d7.png"
+    "revision": "9d23970f86c7d1015f20",
+    "url": "/js/chunk-a3a4917e.0691c372.js"
   },
   {
     "revision": "a1cae08d7fc64955f4b5",
     "url": "/css/chunk-ba7b50d4.f8789eea.css"
   },
   {
-    "revision": "cd278200e3abb32111eb7e1afcec7a29",
-    "url": "/img/fluid.cd278200.jpg"
+    "revision": "a1cae08d7fc64955f4b5",
+    "url": "/js/chunk-ba7b50d4.6acb382f.js"
   },
   {
     "revision": "fd293a71750155192a2b",
     "url": "/css/chunk-fdc0f712.c41e8e03.css"
   },
   {
-    "revision": "3408054e5f083993c59b1b92204fbc12",
-    "url": "/img/4.3408054e.png"
+    "revision": "fd293a71750155192a2b",
+    "url": "/js/chunk-fdc0f712.87221539.js"
   },
   {
     "revision": "f352861a568bcf3de549",
     "url": "/css/chunk-vendors.15b9e89c.css"
   },
   {
-    "revision": "c2f22c3c845453142481c79b49363808",
-    "url": "/img/Ryu3s-stance.c2f22c3c.gif"
+    "revision": "f352861a568bcf3de549",
+    "url": "/js/chunk-vendors.673237ec.js"
   },
   {
     "revision": "0302e62375719d1572079ba15b95e4fa",
@@ -136,12 +136,12 @@ self.__precacheManifest = [
     "url": "/img/building.77ae3eaf.jpg"
   },
   {
-    "revision": "577b1d9feb8f4e07c0c3",
-    "url": "/js/app.33cb4055.js"
+    "revision": "995b217871eb2cd2a9d5",
+    "url": "/js/app.9f83ecf0.js"
   },
   {
-    "revision": "40d5b97324663552366266833109f928",
-    "url": "/img/carl-heyerdahl-181868-unsplash.40d5b973.jpg"
+    "revision": "4f5f91f48b461c97cc38",
+    "url": "/js/chunk-1368ba62.71bfb54c.js"
   },
   {
     "revision": "cf93da10fca48019c06ecaa52307dc92",
@@ -176,8 +176,8 @@ self.__precacheManifest = [
     "url": "/img/14.f9b0a842.jpg"
   },
   {
-    "revision": "ef360e6e7698ba6787fc",
-    "url": "/css/chunk-8951984a.f837fe7e.css"
+    "revision": "4584e43b3b6506f9faf7a7339b93bf55",
+    "url": "/img/isaac-smith-1182057-unsplash.4584e43b.jpg"
   },
   {
     "revision": "ccc0354084eb3364bd2c9a6187a7e9bc",
@@ -244,31 +244,31 @@ self.__precacheManifest = [
     "url": "/img/Makoto.601b3fe6.webp"
   },
   {
-    "revision": "d34de2de8707b19654e5",
-    "url": "/css/chunk-5cd5b814.1830f29c.css"
+    "revision": "40d5b97324663552366266833109f928",
+    "url": "/img/carl-heyerdahl-181868-unsplash.40d5b973.jpg"
   },
   {
-    "revision": "b1f6403d87aa675c7979",
-    "url": "/css/chunk-58056c77.2deafef3.css"
+    "revision": "c2f22c3c845453142481c79b49363808",
+    "url": "/img/Ryu3s-stance.c2f22c3c.gif"
   },
   {
-    "revision": "3c8fab4c0c1d0fc62811",
-    "url": "/css/chunk-441de8a6.823518e4.css"
+    "revision": "3408054e5f083993c59b1b92204fbc12",
+    "url": "/img/4.3408054e.png"
   },
   {
-    "revision": "65ff89d43a502eeba8ea",
-    "url": "/css/chunk-3e7401f5.fd5dde0d.css"
+    "revision": "cd278200e3abb32111eb7e1afcec7a29",
+    "url": "/img/fluid.cd278200.jpg"
   },
   {
-    "revision": "327a0ba2e154a7d051dd",
-    "url": "/css/chunk-398e957f.7129d517.css"
+    "revision": "466677d7794c01a5ca43bed86e7b2ee1",
+    "url": "/img/mac.466677d7.png"
   },
   {
-    "revision": "395c8c82dcd32e90e0dc",
-    "url": "/css/chunk-38b9d23c.823518e4.css"
+    "revision": "53e34a03311fba6e43728f42aae6f8e6",
+    "url": "/index.html"
   },
   {
-    "revision": "577b1d9feb8f4e07c0c3",
-    "url": "/css/app.68ba7903.css"
+    "revision": "995b217871eb2cd2a9d5",
+    "url": "/css/app.29986e2f.css"
   }
 ];
