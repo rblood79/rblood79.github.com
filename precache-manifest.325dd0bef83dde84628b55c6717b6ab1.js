@@ -132,8 +132,8 @@ self.__precacheManifest = [
     "url": "/img/Dhalsim-Dizzy.a0cc87e5.gif"
   },
   {
-    "revision": "5498fd9e1d3a74d1e297",
-    "url": "/js/app.ad1b4ff6.js"
+    "revision": "0136b121e29fe795faaf",
+    "url": "/js/app.e1940d10.js"
   },
   {
     "revision": "15e3bcf6de24555343c1",
@@ -256,11 +256,11 @@ self.__precacheManifest = [
     "url": "/img/mac.466677d7.png"
   },
   {
-    "revision": "124e93da8d72a77767af8fee4f7c324e",
+    "revision": "beb57c309443c67ff042300b8da90590",
     "url": "/index.html"
   },
   {
-    "revision": "5498fd9e1d3a74d1e297",
-    "url": "/css/app.a20fde09.css"
+    "revision": "0136b121e29fe795faaf",
+    "url": "/css/app.6d610ece.css"
   }
 ];
