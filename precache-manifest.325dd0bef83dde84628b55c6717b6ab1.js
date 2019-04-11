@@ -12,8 +12,8 @@ self.__precacheManifest = [
     "url": "/img/stephen-dawson-670638-unsplash.cf93da10.jpg"
   },
   {
-    "revision": "83e1ed23c6d9c18cee44",
-    "url": "/css/chunk-1368ba62.e0f33e2e.css"
+    "revision": "15e3bcf6de24555343c1",
+    "url": "/css/chunk-1368ba62.32e1d2eb.css"
   },
   {
     "revision": "2926b4134cd7d20d2238",
@@ -132,12 +132,12 @@ self.__precacheManifest = [
     "url": "/img/Dhalsim-Dizzy.a0cc87e5.gif"
   },
   {
-    "revision": "869409a93aa6b4a7a118",
-    "url": "/js/app.f13a7c94.js"
+    "revision": "0136b121e29fe795faaf",
+    "url": "/js/app.e1940d10.js"
   },
   {
-    "revision": "83e1ed23c6d9c18cee44",
-    "url": "/js/chunk-1368ba62.00f521c4.js"
+    "revision": "15e3bcf6de24555343c1",
+    "url": "/js/chunk-1368ba62.8b71ff4d.js"
   },
   {
     "revision": "802cb54ba19b19eedd4cc7d2a7800872",
@@ -208,10 +208,6 @@ self.__precacheManifest = [
     "url": "/img/nik-macmillan-280300.4a6f4d3a.jpg"
   },
   {
-    "revision": "5e732d7ba7b28b698380b78d885d4ab2",
-    "url": "/img/Akuma-sf3-eviltaunt.5e732d7b.gif"
-  },
-  {
     "revision": "45f3e9b576642cf958503eec6508bff1",
     "url": "/img/6.45f3e9b5.jpg"
   },
@@ -260,11 +256,11 @@ self.__precacheManifest = [
     "url": "/img/mac.466677d7.png"
   },
   {
-    "revision": "5fc40b0d61346677c0be53a356c53472",
+    "revision": "beb57c309443c67ff042300b8da90590",
     "url": "/index.html"
   },
   {
-    "revision": "869409a93aa6b4a7a118",
-    "url": "/css/app.6f41e1b3.css"
+    "revision": "0136b121e29fe795faaf",
+    "url": "/css/app.6d610ece.css"
   }
 ];
