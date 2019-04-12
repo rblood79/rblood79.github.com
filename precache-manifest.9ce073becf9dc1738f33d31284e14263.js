@@ -12,8 +12,16 @@ self.__precacheManifest = [
     "url": "/img/stephen-dawson-670638-unsplash.cf93da10.jpg"
   },
   {
+    "revision": "0615e21146ea120f2c2c",
+    "url": "/css/chunk-0e016ae8.0f3657ae.css"
+  },
+  {
     "revision": "166b4856da38d2063100",
     "url": "/css/chunk-1368ba62.32e1d2eb.css"
+  },
+  {
+    "revision": "166b4856da38d2063100",
+    "url": "/js/chunk-1368ba62.ab814bc1.js"
   },
   {
     "revision": "23dacc145495c7bc333d",
@@ -50,14 +58,6 @@ self.__precacheManifest = [
   {
     "revision": "1d199c02b6aeca5cbf57",
     "url": "/js/chunk-2d226519.282dc483.js"
-  },
-  {
-    "revision": "aae7e4905e16fbd3831a",
-    "url": "/css/chunk-35775c62.bf22f926.css"
-  },
-  {
-    "revision": "aae7e4905e16fbd3831a",
-    "url": "/js/chunk-35775c62.fb0914e8.js"
   },
   {
     "revision": "defebfe14858225c9a1b",
@@ -132,12 +132,12 @@ self.__precacheManifest = [
     "url": "/img/Dhalsim-Dizzy.a0cc87e5.gif"
   },
   {
-    "revision": "441ba610ec0f199731d0",
-    "url": "/js/app.5c030865.js"
+    "revision": "c805fd5277f8650ad3c8",
+    "url": "/js/app.861f507c.js"
   },
   {
-    "revision": "166b4856da38d2063100",
-    "url": "/js/chunk-1368ba62.ab814bc1.js"
+    "revision": "0615e21146ea120f2c2c",
+    "url": "/js/chunk-0e016ae8.3d798b1a.js"
   },
   {
     "revision": "802cb54ba19b19eedd4cc7d2a7800872",
@@ -256,11 +256,11 @@ self.__precacheManifest = [
     "url": "/img/mac.466677d7.png"
   },
   {
-    "revision": "edc6c5e56e51bbbe894c4122391c2729",
+    "revision": "215a6f30693f1464f00ae0cd03ff7404",
     "url": "/index.html"
   },
   {
-    "revision": "441ba610ec0f199731d0",
-    "url": "/css/app.9c9b5e38.css"
+    "revision": "c805fd5277f8650ad3c8",
+    "url": "/css/app.dbee82a3.css"
   }
 ];
