@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.ea0929d2c7d6db2b2a7f4ae6bfc98522.js"
+  "/precache-manifest.f88edf5b9b6cf236c7dbd7307e4002d7.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "haemilsoft-vue"});
