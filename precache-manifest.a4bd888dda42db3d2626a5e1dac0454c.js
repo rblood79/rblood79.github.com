@@ -12,7 +12,7 @@ self.__precacheManifest = [
     "url": "/img/stephen-dawson-670638-unsplash.cf93da10.jpg"
   },
   {
-    "revision": "978a750eddc265fdc794",
+    "revision": "166b4856da38d2063100",
     "url": "/css/chunk-1368ba62.32e1d2eb.css"
   },
   {
@@ -52,6 +52,14 @@ self.__precacheManifest = [
     "url": "/js/chunk-2d226519.282dc483.js"
   },
   {
+    "revision": "aae7e4905e16fbd3831a",
+    "url": "/css/chunk-35775c62.bf22f926.css"
+  },
+  {
+    "revision": "aae7e4905e16fbd3831a",
+    "url": "/js/chunk-35775c62.fb0914e8.js"
+  },
+  {
     "revision": "defebfe14858225c9a1b",
     "url": "/css/chunk-38b9d23c.823518e4.css"
   },
@@ -66,14 +74,6 @@ self.__precacheManifest = [
   {
     "revision": "01b090be4e3df95eafb8",
     "url": "/js/chunk-441de8a6.f7a33ed3.js"
-  },
-  {
-    "revision": "792ecf9886dd6b1740ea",
-    "url": "/css/chunk-4db6ec90.caeceec4.css"
-  },
-  {
-    "revision": "792ecf9886dd6b1740ea",
-    "url": "/js/chunk-4db6ec90.6e250dd2.js"
   },
   {
     "revision": "a2d8ace9dcbb35f94bf7",
@@ -132,12 +132,12 @@ self.__precacheManifest = [
     "url": "/img/Dhalsim-Dizzy.a0cc87e5.gif"
   },
   {
-    "revision": "9a2d2824202f4ce9b33c",
-    "url": "/js/app.c01a1157.js"
+    "revision": "441ba610ec0f199731d0",
+    "url": "/js/app.5c030865.js"
   },
   {
-    "revision": "978a750eddc265fdc794",
-    "url": "/js/chunk-1368ba62.4641b719.js"
+    "revision": "166b4856da38d2063100",
+    "url": "/js/chunk-1368ba62.ab814bc1.js"
   },
   {
     "revision": "802cb54ba19b19eedd4cc7d2a7800872",
@@ -256,11 +256,11 @@ self.__precacheManifest = [
     "url": "/img/mac.466677d7.png"
   },
   {
-    "revision": "32d21bd352278a55597eb6b747b1bac4",
+    "revision": "edc6c5e56e51bbbe894c4122391c2729",
     "url": "/index.html"
   },
   {
-    "revision": "9a2d2824202f4ce9b33c",
-    "url": "/css/app.dcc75e27.css"
+    "revision": "441ba610ec0f199731d0",
+    "url": "/css/app.9c9b5e38.css"
   }
 ];
