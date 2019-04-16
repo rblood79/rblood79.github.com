@@ -36,8 +36,8 @@ self.__precacheManifest = [
     "url": "/js/chunk-2d0a314a.4e84694c.js"
   },
   {
-    "revision": "bf4c0a379ee87686dfbb",
-    "url": "/js/chunk-2d0c9386.598588ba.js"
+    "revision": "5bdf977cb8ef9bb0dd3e",
+    "url": "/js/chunk-2d0c9386.5d17aa2d.js"
   },
   {
     "revision": "917069c532cb5c11779a",
@@ -132,8 +132,8 @@ self.__precacheManifest = [
     "url": "/img/Dhalsim-Dizzy.a0cc87e5.gif"
   },
   {
-    "revision": "b1f3de43b1535b67dd9a",
-    "url": "/js/app.ab2be423.js"
+    "revision": "ecea7552f6005a4633a5",
+    "url": "/js/app.afb49633.js"
   },
   {
     "revision": "db07ff67725564d7fcf1",
@@ -256,11 +256,11 @@ self.__precacheManifest = [
     "url": "/img/mac.466677d7.png"
   },
   {
-    "revision": "e8d1be3580395a98b5c46f6bd5035153",
+    "revision": "778e7a95be6943904ba43294a7ccbfec",
     "url": "/index.html"
   },
   {
-    "revision": "b1f3de43b1535b67dd9a",
-    "url": "/css/app.3658a482.css"
+    "revision": "ecea7552f6005a4633a5",
+    "url": "/css/app.3614baf9.css"
   }
 ];
