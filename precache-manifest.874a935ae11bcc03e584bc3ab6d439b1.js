@@ -64,14 +64,6 @@ self.__precacheManifest = [
     "url": "/js/chunk-5e476e0e.598008eb.js"
   },
   {
-    "revision": "4fd60fe17e0afe787b4c",
-    "url": "/css/chunk-6aac6a44.e0a591e8.css"
-  },
-  {
-    "revision": "4fd60fe17e0afe787b4c",
-    "url": "/js/chunk-6aac6a44.12ae7ee7.js"
-  },
-  {
     "revision": "97070dc2235a316cc98b",
     "url": "/css/chunk-6fb3696e.771a53dc.css"
   },
@@ -102,6 +94,14 @@ self.__precacheManifest = [
   {
     "revision": "bfb0cd2296204fbc1f43",
     "url": "/js/chunk-b4cb54a8.dcb79dfa.js"
+  },
+  {
+    "revision": "bebdba5c6319f8892a9f",
+    "url": "/css/chunk-be31c58e.4785b728.css"
+  },
+  {
+    "revision": "bebdba5c6319f8892a9f",
+    "url": "/js/chunk-be31c58e.f8da11cb.js"
   },
   {
     "revision": "6812a881ca60904b0298",
@@ -156,8 +156,8 @@ self.__precacheManifest = [
     "url": "/img/ux-store-1135537-unsplash.6d5b1d95.jpg"
   },
   {
-    "revision": "0f35a2f738f9c683d11e",
-    "url": "/js/app.93731ecd.js"
+    "revision": "81c1b2b9f9f7f43fae04",
+    "url": "/js/app.7b18c3fb.js"
   },
   {
     "revision": "cdba862060f586263de0",
@@ -224,12 +224,12 @@ self.__precacheManifest = [
     "url": "/fonts/NotoSansKR-Regular.f97524d1.woff2"
   },
   {
-    "revision": "d197a963b8be534ec3620e51addcf533",
-    "url": "/fonts/NotoSansKR-Bold.d197a963.woff2"
-  },
-  {
     "revision": "bfaf1857e71d0b18bac8956117b642df",
     "url": "/fonts/NotoSansKR-Medium.bfaf1857.woff2"
+  },
+  {
+    "revision": "d197a963b8be534ec3620e51addcf533",
+    "url": "/fonts/NotoSansKR-Bold.d197a963.woff2"
   },
   {
     "revision": "c574340424cc0b9229b0109f996e9f14",
@@ -308,11 +308,11 @@ self.__precacheManifest = [
     "url": "/img/Ryu3s-stance.c2f22c3c.gif"
   },
   {
-    "revision": "75c24b0385aef4da29832d90d478fd0b",
+    "revision": "a1f2662fe9e37b7adda3304a19ca68b8",
     "url": "/index.html"
   },
   {
-    "revision": "0f35a2f738f9c683d11e",
-    "url": "/css/app.fb765966.css"
+    "revision": "81c1b2b9f9f7f43fae04",
+    "url": "/css/app.90b9838f.css"
   }
 ];
