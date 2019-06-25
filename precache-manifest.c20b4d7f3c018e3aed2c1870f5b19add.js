@@ -48,20 +48,20 @@ self.__precacheManifest = [
     "url": "/js/chunk-4c5c043d.d4e5f3ca.js"
   },
   {
-    "revision": "b002f48c66ae3edc0182",
-    "url": "/css/chunk-590d5730.59ccd42b.css"
-  },
-  {
-    "revision": "b002f48c66ae3edc0182",
-    "url": "/js/chunk-590d5730.12f382b3.js"
-  },
-  {
     "revision": "89977540bf4e7f391e58",
     "url": "/css/chunk-5e476e0e.4b5ce3e3.css"
   },
   {
     "revision": "89977540bf4e7f391e58",
     "url": "/js/chunk-5e476e0e.598008eb.js"
+  },
+  {
+    "revision": "dfd355daaf0c7e28944a",
+    "url": "/css/chunk-6d218220.75041b54.css"
+  },
+  {
+    "revision": "dfd355daaf0c7e28944a",
+    "url": "/js/chunk-6d218220.1bbb0af7.js"
   },
   {
     "revision": "97070dc2235a316cc98b",
@@ -156,8 +156,8 @@ self.__precacheManifest = [
     "url": "/img/ux-store-1135537-unsplash.6d5b1d95.jpg"
   },
   {
-    "revision": "81c1b2b9f9f7f43fae04",
-    "url": "/js/app.7b18c3fb.js"
+    "revision": "56b5679d7ad3f8fd78ad",
+    "url": "/js/app.9385dbef.js"
   },
   {
     "revision": "cdba862060f586263de0",
@@ -260,10 +260,6 @@ self.__precacheManifest = [
     "url": "/fonts/NotoSansKR-Black.72b1daba.woff"
   },
   {
-    "revision": "c3f8d68fe959e359dbf56d591b7865b2",
-    "url": "/fonts/NotoSansKR-Regular.c3f8d68f.otf"
-  },
-  {
     "revision": "4028af330fc8d0dad76d37da3949599d",
     "url": "/fonts/NotoSansKR-DemiLight.4028af33.otf"
   },
@@ -272,12 +268,16 @@ self.__precacheManifest = [
     "url": "/fonts/NotoSansKR-Medium.e68e938a.otf"
   },
   {
-    "revision": "4af942da40f1971ac1faa4a27deae858",
-    "url": "/fonts/NotoSansKR-Light.4af942da.otf"
+    "revision": "c3f8d68fe959e359dbf56d591b7865b2",
+    "url": "/fonts/NotoSansKR-Regular.c3f8d68f.otf"
   },
   {
     "revision": "7a1459b4b1b98f314334fdc20edef709",
     "url": "/fonts/NotoSansKR-Thin.7a1459b4.otf"
+  },
+  {
+    "revision": "4af942da40f1971ac1faa4a27deae858",
+    "url": "/fonts/NotoSansKR-Light.4af942da.otf"
   },
   {
     "revision": "38c81d5e8bad31c37c80d10df2bb906f",
@@ -308,11 +308,11 @@ self.__precacheManifest = [
     "url": "/img/Ryu3s-stance.c2f22c3c.gif"
   },
   {
-    "revision": "a1f2662fe9e37b7adda3304a19ca68b8",
+    "revision": "85f765dd0047bbcba87587e19a584121",
     "url": "/index.html"
   },
   {
-    "revision": "81c1b2b9f9f7f43fae04",
+    "revision": "56b5679d7ad3f8fd78ad",
     "url": "/css/app.90b9838f.css"
   }
 ];
