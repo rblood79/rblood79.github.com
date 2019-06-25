@@ -48,6 +48,14 @@ self.__precacheManifest = [
     "url": "/js/chunk-4c5c043d.d4e5f3ca.js"
   },
   {
+    "revision": "b002f48c66ae3edc0182",
+    "url": "/css/chunk-590d5730.59ccd42b.css"
+  },
+  {
+    "revision": "b002f48c66ae3edc0182",
+    "url": "/js/chunk-590d5730.12f382b3.js"
+  },
+  {
     "revision": "89977540bf4e7f391e58",
     "url": "/css/chunk-5e476e0e.4b5ce3e3.css"
   },
@@ -112,14 +120,6 @@ self.__precacheManifest = [
     "url": "/js/chunk-d451c02c.5f25ed8a.js"
   },
   {
-    "revision": "8ce664a89d60beb80e1c",
-    "url": "/css/chunk-d455969e.7384ec28.css"
-  },
-  {
-    "revision": "8ce664a89d60beb80e1c",
-    "url": "/js/chunk-d455969e.9c7110c8.js"
-  },
-  {
     "revision": "5720d6e4428476eefb41",
     "url": "/css/chunk-vendors.1e58c224.css"
   },
@@ -156,8 +156,8 @@ self.__precacheManifest = [
     "url": "/img/ux-store-1135537-unsplash.6d5b1d95.jpg"
   },
   {
-    "revision": "4e8bc257aea59c7a249b",
-    "url": "/js/app.6873b479.js"
+    "revision": "0f35a2f738f9c683d11e",
+    "url": "/js/app.93731ecd.js"
   },
   {
     "revision": "cdba862060f586263de0",
@@ -224,12 +224,12 @@ self.__precacheManifest = [
     "url": "/fonts/NotoSansKR-Regular.f97524d1.woff2"
   },
   {
-    "revision": "bfaf1857e71d0b18bac8956117b642df",
-    "url": "/fonts/NotoSansKR-Medium.bfaf1857.woff2"
-  },
-  {
     "revision": "d197a963b8be534ec3620e51addcf533",
     "url": "/fonts/NotoSansKR-Bold.d197a963.woff2"
+  },
+  {
+    "revision": "bfaf1857e71d0b18bac8956117b642df",
+    "url": "/fonts/NotoSansKR-Medium.bfaf1857.woff2"
   },
   {
     "revision": "c574340424cc0b9229b0109f996e9f14",
@@ -252,12 +252,16 @@ self.__precacheManifest = [
     "url": "/fonts/NotoSansKR-Medium.f3b73884.woff"
   },
   {
+    "revision": "5fc6f1266e7ea70d652bbdd2ec3a60a8",
+    "url": "/fonts/NotoSansKR-Bold.5fc6f126.woff"
+  },
+  {
     "revision": "72b1daba897aa037cd95b0e426aeebed",
     "url": "/fonts/NotoSansKR-Black.72b1daba.woff"
   },
   {
-    "revision": "5fc6f1266e7ea70d652bbdd2ec3a60a8",
-    "url": "/fonts/NotoSansKR-Bold.5fc6f126.woff"
+    "revision": "c3f8d68fe959e359dbf56d591b7865b2",
+    "url": "/fonts/NotoSansKR-Regular.c3f8d68f.otf"
   },
   {
     "revision": "4028af330fc8d0dad76d37da3949599d",
@@ -268,16 +272,12 @@ self.__precacheManifest = [
     "url": "/fonts/NotoSansKR-Medium.e68e938a.otf"
   },
   {
-    "revision": "c3f8d68fe959e359dbf56d591b7865b2",
-    "url": "/fonts/NotoSansKR-Regular.c3f8d68f.otf"
+    "revision": "4af942da40f1971ac1faa4a27deae858",
+    "url": "/fonts/NotoSansKR-Light.4af942da.otf"
   },
   {
     "revision": "7a1459b4b1b98f314334fdc20edef709",
     "url": "/fonts/NotoSansKR-Thin.7a1459b4.otf"
-  },
-  {
-    "revision": "4af942da40f1971ac1faa4a27deae858",
-    "url": "/fonts/NotoSansKR-Light.4af942da.otf"
   },
   {
     "revision": "38c81d5e8bad31c37c80d10df2bb906f",
@@ -308,11 +308,11 @@ self.__precacheManifest = [
     "url": "/img/Ryu3s-stance.c2f22c3c.gif"
   },
   {
-    "revision": "e7ed54c67c3bb636861f99e83ce2ca4d",
+    "revision": "75c24b0385aef4da29832d90d478fd0b",
     "url": "/index.html"
   },
   {
-    "revision": "4e8bc257aea59c7a249b",
+    "revision": "0f35a2f738f9c683d11e",
     "url": "/css/app.fb765966.css"
   }
 ];
