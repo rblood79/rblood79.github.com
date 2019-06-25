@@ -156,8 +156,8 @@ self.__precacheManifest = [
     "url": "/img/ux-store-1135537-unsplash.6d5b1d95.jpg"
   },
   {
-    "revision": "4fd623062b0010c1b8ab",
-    "url": "/js/app.87dba0f5.js"
+    "revision": "5e64da33be9c2610fcf4",
+    "url": "/js/app.ea80e673.js"
   },
   {
     "revision": "cdba862060f586263de0",
@@ -308,11 +308,11 @@ self.__precacheManifest = [
     "url": "/img/Ryu3s-stance.c2f22c3c.gif"
   },
   {
-    "revision": "84234c3d48d547cfdd08366c7d6fff20",
+    "revision": "d538fe391b2893c0410bff209cb7b856",
     "url": "/index.html"
   },
   {
-    "revision": "4fd623062b0010c1b8ab",
-    "url": "/css/app.deeabfe2.css"
+    "revision": "5e64da33be9c2610fcf4",
+    "url": "/css/app.dd6363b5.css"
   }
 ];
